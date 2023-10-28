@@ -1,0 +1,39 @@
+# AI-OptiRec Documentation
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+   - [Usage](#usage)
+4. [Customization](#customization)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+## Introduction
+
+AI-OptiRec is a powerful Python tool designed to optimize gas recirculation rates in industrial processes. By utilizing advanced optimization techniques and machine learning algorithms, AI-OptiRec aims to minimize energy consumption, enhance production efficiency, and reduce emissions. This documentation provides detailed information on how to use and customize AI-OptiRec for specific industrial applications.
+
+## Features
+
+- **Optimization:** AI-OptiRec employs the Differential Evolution algorithm for efficient optimization of gas recirculation rates.
+- **Modularity:** The codebase is structured to facilitate easy customization for diverse optimization scenarios.
+- **Flexibility:** Users can define their objective functions tailored to their specific industrial metrics and requirements.
+- **Simplicity:** The code is written in clean and understandable Python, allowing for quick implementation and modification.
+- **Data-Driven Insights:** Machine learning techniques are integrated to provide data-driven insights and adaptive optimization strategies.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your system.
+- Required packages: `scipy`, `numpy`.
+
+### Installation
+
+1. Clone the repository to your local machine:
+   ```sh
+   git clone https://github.com/your-username/AI-OptiRec-Gas-Recirculation-Optimization.git
+   cd AI-OptiRec-Gas-Recirculation-Optimization
