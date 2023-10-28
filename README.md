@@ -1,33 +1,22 @@
 # AI-OptiRec: Gas Recirculation Optimization with Python and Machine Learning
-ShaftFurnaceSolver is a powerful Python toolkit designed for solving complex mathematical equations related to solid-state ironmaking processes in shaft furnaces. This versatile tool allows engineers, researchers, and students to analyze and simulate chemical reactions, thermodynamic constraints, and energy balances within the furnace system.
-Key Features:
 
-Accurate Modeling: Utilize advanced numerical methods to accurately model material and energy balances in shaft furnaces, accounting for thermodynamic and kinetic constraints.
+AI-OptiRec is a Python-based project aimed at optimizing gas recirculation rates in industrial processes. By leveraging advanced optimization techniques and machine learning algorithms, this project provides an efficient way to minimize energy consumption, enhance production efficiency, and reduce emissions.
 
-Flexible Configuration: Easily input furnace parameters and constraints, adapting the solver to various experimental conditions and theoretical scenarios.
+## Features
 
-Thorough Analysis: Obtain detailed temperature and composition profiles within the shaft furnace, enabling in-depth analysis of ironmaking processes.
+- **Optimization:** Utilizes the Differential Evolution algorithm to optimize gas recirculation rates.
+- **Modularity:** Easily adaptable code structure for various recirculation rate optimization scenarios.
+- **Flexibility:** Objective function can be customized based on specific industrial metrics.
+- **Simplicity:** Clean and understandable Python code for quick implementation and modification.
+- **Data-Driven:** Integrates machine learning for data-driven insights and adaptive optimization strategies.
 
-Performance Evaluation: Evaluate process efficiency and energy consumption, facilitating performance comparisons and optimizations.
+## Getting Started
 
-Design Assistance: Utilize the model equations for both performance evaluation and design purposes, ensuring robust and efficient furnace design.
+1. **Prerequisites:**
+   - Python 3.x installed.
+   - Required packages: `scipy`, `numpy`.
 
-How to Use:
-
-Input Parameters: Specify constants, variables, and constraints within the provided Python script.
-
-Run Solver: Execute the script to solve the equations numerically and obtain detailed results.
-
-Analyze Results: Interpret temperature and composition profiles to gain insights into the ironmaking process efficiency.
-
-Optimize: Fine-tune parameters for optimal performance and energy efficiency in shaft furnace operations.
-
-Contributions:
-
-Contributions and enhancements from the open-source community are welcome. Feel free to fork the repository, submit issues, or create pull requests to improve the toolkit's functionality and usability. 🚀
-
-License:
-
-This project is licensed under [Your License Name], making it accessible for both academic and industrial applications.
-
-Explore the fascinating world of solid-state ironmaking with ShaftFurnaceSolver. Start simulating, analyzing, and optimizing your furnace processes today! 🔥🔬
+2. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/your-username/AI-OptiRec-Gas-Recirculation-Optimization.git
+   cd AI-OptiRec-Gas-Recirculation-Optimization
